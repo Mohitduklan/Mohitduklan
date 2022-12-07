@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mohitduklan
+- 👀 I’m interested in Deep learning projects
+- 🌱 I’m currently learning Transformers
+- 💞️ I’m looking to collaborate on any deep learning project
+- 📫 mohitduklan@outlook.com
