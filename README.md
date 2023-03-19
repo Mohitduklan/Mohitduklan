@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mohitduklan
-- 👀 I’m interested in Deep learning projects
-- 🌱 I’m currently learning Computer vision
-- 💞️ I’m looking to collaborate on any computer vision project
+- Hi, I’m @Mohitduklan
+- I’m interested in Deep learning projects
+- I’m currently learning Computer vision
+- I’m looking to collaborate on any computer vision project
 - 📫 mohitduklan@outlook.com
